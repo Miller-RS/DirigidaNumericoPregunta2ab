@@ -1,0 +1,96 @@
+\documentclass[8pt]{beamer}
+
+\uselanguage{spanish}
+\languagepath{spanish}
+
+
+\usetheme{Warsaw}
+
+\usefonttheme[onlymath]{serif}%cambiamos el tipo de letra a sanserif que es recomendable para el publico
+
+
+\begin{document}
+	\begin{frame}
+		$$a) \ 2324.6=2324+0.6 \rightarrow N=2324 \ y \ r=0.6$$\pause
+		\centering$N = 2324=(a_ja_{j-1}...a_2a_1a_0)_2$\pause
+		\begin{itemize}
+			\item $k=0 : \pause \ N_0 = 2324=2q_0+r_0$ \pause $\color{blue}\rightarrow$ $ q_0=\fcolorbox{green}{white}{$1162$}  \wedge  r_0=0$ \pause $\color{red}\rightarrow$  $\fcolorbox{red}{white}{$a_0=0$}$ 
+			\item[]<2->  $k=1 : \pause \ N_1 = \fcolorbox{green}{white}{$1162$}=2q_1+r_1$ \pause $\color{blue}\rightarrow$ $ q_1=\fcolorbox{yellow}{white}{$581$}  \wedge  r_1=0$ \pause $\color{red}\rightarrow$  $\fcolorbox{red}{white}{$a_1=0$}$
+			\item[]<3->  $k=2 : \pause \ N_2 = \fcolorbox{yellow}{white}{$581$}=2q_2+r_2$ \pause $\color{blue}\rightarrow$ $ q_2=\fcolorbox{green}{white}{$290$}  \wedge  r_2=1$ \pause $\color{red}\rightarrow$  $\fcolorbox{red}{white}{$a_2=1$}$
+			\item[]<4-> $k=3 : \pause \ N_3 = \fcolorbox{green}{white}{$290$}=2q_3+r_3$ \pause $\color{blue}\rightarrow$ $ q_3=\fcolorbox{yellow}{white}{$145$}  \wedge  r_3=0$ \pause $\color{red}\rightarrow$  $\fcolorbox{red}{white}{$a_3=0$}$
+			\item[]<5->  $k=4 : \pause \ N_4 = \fcolorbox{yellow}{white}{$145$}=2q_4+r_4$ \pause $\color{blue}\rightarrow$ $ q_4=\fcolorbox{green}{white}{$72$}  \wedge  r_4=1$ \pause $\color{red}\rightarrow$  $\fcolorbox{red}{white}{$a_4=1$}$
+			\item[]<6->  $k=5 : \pause \ N_2 = \fcolorbox{green}{white}{$72$}=2q_5+r_5$ \pause $\color{blue}\rightarrow$ $ q_5=\fcolorbox{yellow}{white}{$36$}  \wedge  r_5=0$ \pause $\color{red}\rightarrow$  $\fcolorbox{red}{white}{$a_5=0$}$
+			\item[]<7-> $k=6 : \pause \ N_6 = \fcolorbox{yellow}{white}{$36$}=2q_6+r_6$ \pause $\color{blue}\rightarrow$ $ q_6=\fcolorbox{green}{white}{$18$}  \wedge  r_6=0$ \pause $\color{red}\rightarrow$  $\fcolorbox{red}{white}{$a_6=0$}$
+			\item[]<8->  $k=7 : \pause \ N_7 = \fcolorbox{green}{white}{$18$}=2q_7+r_7$ \pause $\color{blue}\rightarrow$ $ q_7=\fcolorbox{yellow}{white}{$9$}  \wedge  r_7=0$ \pause $\color{red}\rightarrow$  $\fcolorbox{red}{white}{$a_7=0$}$
+			\item[]<9-> $k=8 : \pause \ N_8 = \fcolorbox{yellow}{white}{$9$}=2q_8+r_8$ \pause $\color{blue}\rightarrow$ $ q_8=\fcolorbox{green}{white}{$4$}  \wedge  r_8=1$ \pause $\color{red}\rightarrow$  $\fcolorbox{red}{white}{$a_8=1$}$
+			\item[]<10->  $k=9 : \pause \ N_9 = \fcolorbox{green}{white}{$4$}=2q_9+r_9$ \pause $\color{blue}\rightarrow$ $ q_9=\fcolorbox{yellow}{white}{$2$}  \wedge  r_9=0$ \pause $\color{red}\rightarrow$  $\fcolorbox{red}{white}{$a_9=0$}$
+			\item[]<11-> $k=10 : \pause \ N_{10} = \fcolorbox{yellow}{white}{$2$}=2q_{10}+r_{10}$ \pause $\color{blue}\rightarrow$ $ q_{10}=\fcolorbox{green}{white}{$1$}  \wedge  r_{10}=0$ \pause $\color{red}\rightarrow$  $\fcolorbox{red}{white}{$a_{10}=0$}$
+			\item[]<12-> $k=11 : \pause \ N_{11} = \fcolorbox{green}{white}{$1$}=2q_{11}+r_{11}$ \pause $\color{blue}\rightarrow$ $ q_{11}=\fcolorbox{white}{yellow}{$0$}  \wedge  r_{11}=1$ \pause $\color{red}\rightarrow$  $\fcolorbox{red}{white}{$a_{11}=1$}$\pause
+		\end{itemize}
+				\centering$N=2324=100100010100_{(2)}$
+	\end{frame}
+	\begin{frame}
+		\centering $r=0.6=(0.d_1d_2...d_j...)_2$
+		\begin{itemize}
+		\item	$k=1 \ \pause ; \ 2r_1=1.2 \pause \ \rightarrow \ \fcolorbox{red}{white}{ $d_1=1$}$\pause 
+		\item[]<2-> \hspace{2.5cm}$ \rightarrow r_2=1.2-1=0.2$\pause
+		\item 	$k=2 \ \pause ; \ 2r_2=0.4 \pause \ \rightarrow \ \fcolorbox{red}{white}{ $d_2=0$}$\pause  
+		\item[]<3-> \hspace{2.5cm}$ \rightarrow r_3=0.4-0=0.4$\pause
+		\item	$k=3 \ \pause ; \ 2r_3=0.8 \pause \ \rightarrow \ \fcolorbox{red}{white}{ $d_3=0$}$\pause  
+		\item[]<4-> \hspace{2.5cm}$ \rightarrow r_4=0.8-0=0.8$\pause
+		\item	$k=4 \ \pause ; \ 2r_4=1.6 \pause \ \rightarrow \ \fcolorbox{red}{white}{ $d_4=1$}$\pause  
+		\item[]<5-> \hspace{2.5cm}$ \rightarrow r_5=1.6-1=0.6$\pause
+		\item	$k=5 \ \pause ; \ 2r_5=1.2 \pause \ \rightarrow \ \fcolorbox{red}{white}{ $d_5=1$}$\pause  
+		\item[]<6-> \hspace{2.5cm}$ \rightarrow r_6=1.2-1=\fcolorbox{blue}{white}{$0.2$}$\pause 
+		\end{itemize}
+		\centering $\fcolorbox{black}{white}{$r=0.6=(0.1001100110011...)_2=(0.1 \overline{0011})_2$ }$\pause
+		$$\therefore 2324,6 = 2324 +0.6 = 100100010100_{(2)}+0.1 \overline{0011}_{(2)}=\color{red}100100010100.1 \overline{0011}_{(2)}$$
+	\end{frame}
+\begin{frame}
+	$$b) \ 3475.52=3475 + 0.52 \rightarrow N=3475 \ \ y \ \ r=0.52 $$ 
+	\begin{center}
+		\begin{tabular}{ c| c c c c c c c c c c c c c }
+			 \pause[0]$k$  & \pause[4]$0$ & \pause[7]  $1$ & \pause[10]  $2$& \pause[13]  $3$& \pause[16]  $4$& \pause[19]  $5$& \pause[22]  $6$& \pause[25]  $7$ & \pause[28]  $8$& \pause[31]  $9$& \pause[34]  $10$& \pause[37]  $11$&  \pause[0]\\ 
+			\hline
+			\pause[0]$N_k$	 & \pause[5] $3475$ &\pause[8]  $1737$ & \pause[11]  $868$ & \pause[14]  $434$& \pause[17]  $217$& \pause[20]  $108$& \pause[23]  $54$& \pause[26]  $27$& \pause[29]  $13$& \pause[32]  $6$& \pause[35]  $3$& \pause[38]  $1$\pause[0] \\
+			\hline  
+			\pause[0]$a_k$  & \pause[6] $1$ &\pause[9] $1$ & \pause[12]  $0$ & \pause[15]  $0$& \pause[18]  $1$ & \pause[21]  $0$ & \pause[24]  $0$& \pause[27]  $1$ & \pause[30]  $1$& \pause[33]  $0$& \pause[36]  $1$& \pause[39]  $1$&  \\
+			& & & & & & & & & & & &$\color{red}\leftarrow$& \pause
+		\end{tabular}
+		\centering$N=3475=110110010011_{(2)}$\pause
+	\end{center}
+	$$Para \ \ r=0.52$$\pause
+	\begin{itemize}
+		\item	$k=1 \  ; \ 2r_1=1.04  \ \rightarrow \ \fcolorbox{red}{white}{ $d_1=1$} \wedge r_2=0.04$
+		\item[]	$k=2 \  ; \ 2r_2=0.08  \ \rightarrow \ \fcolorbox{red}{white}{ $d_2=0$} \wedge r_3=0.08$
+		\item[]	$k=3 \  ; \ 2r_3=0.16  \ \rightarrow \ \fcolorbox{red}{white}{ $d_3=0$} \wedge r_4=0.16$
+		\item[]	$k=4 \  ; \ 2r_4=0.32  \ \rightarrow \ \fcolorbox{red}{white}{ $d_4=0$} \wedge r_5=0.32$
+		\item[]	$k=5 \  ; \ 2r_5=0.64  \ \rightarrow \ \fcolorbox{red}{white}{ $d_5=0$} \wedge r_6=0.64$
+		\item[]	$k=6 \  ; \ 2r_6=1.28  \ \rightarrow \ \fcolorbox{red}{white}{ $d_6=1$} \wedge r_7=0.28$
+	\end{itemize}
+\end{frame}
+	\begin{frame}
+		\begin{itemize}
+			\item	$k=7 \  ; \ 2r_7=0.56  \ \rightarrow \ \fcolorbox{red}{white}{ $d_7=0$} \wedge r_8=0.56$
+			\item[]	$k=8 \  ; \ 2r_8=1.12  \ \rightarrow \ \fcolorbox{red}{white}{ $d_8=1$} \wedge r_9=0.12$
+			\item[]	$k=9 \  ; \ 2r_9=0.24  \ \rightarrow \ \fcolorbox{red}{white}{ $d_9=0$} \wedge r_{10}=0.24$
+			\item[]	$k=10 \  ; \ 2r_{10}=0.48  \ \rightarrow \ \fcolorbox{red}{white}{ $d_{10}=0$} \wedge r_{11}=0.48$
+			\item[]	$k=11 \  ; \ 2r_{11}=0.96  \ \rightarrow \ \fcolorbox{red}{white}{ $d_{11}=0$} \wedge r_{12}=0.96$
+			\item[]	$k=12 \  ; \ 2r_{12}=1.92  \ \rightarrow \ \fcolorbox{red}{white}{ $d_{12}=1$} \wedge r_{13}=0.92$
+			\item[]	$k=13 \  ; \ 2r_{13}=1.84  \ \rightarrow \ \fcolorbox{red}{white}{ $d_{13}=1$} \wedge r_{14}=0.84$
+			\item[]	$k=14 \  ; \ 2r_{14}=1.68  \ \rightarrow \ \fcolorbox{red}{white}{ $d_{14}=1$} \wedge r_{15}=0.68$
+			\item[]	$k=15 \  ; \ 2r_{15}=1.36  \ \rightarrow \ \fcolorbox{red}{white}{ $d_{15}=1$} \wedge r_{16}=0.36$
+			\item[]	$k=16 \  ; \ 2r_{16}=0.72  \ \rightarrow \ \fcolorbox{red}{white}{ $d_{16}=0$} \wedge r_{17}=0.72$
+			\item[]	$k=17 \  ; \ 2r_{17}=1.44  \ \rightarrow \ \fcolorbox{red}{white}{ $d_{17}=1$} \wedge r_{18}=0.44$
+			\item[]	$k=18 \  ; \ 2r_{18}=0.88  \ \rightarrow \ \fcolorbox{red}{white}{ $d_{18}=0$} \wedge r_{19}=0.88$
+			\item[]	$k=19 \  ; \ 2r_{19}=1.76  \ \rightarrow \ \fcolorbox{red}{white}{ $d_{19}=1$} \wedge r_{20}=0.76$
+			\item[]	$k=20 \  ; \ 2r_{20}=1.52  \ \rightarrow \ \fcolorbox{red}{white}{ $d_{20}=1$} \wedge r_{21}=0.52$
+			\item[]	$k=21 \  ; \ 2r_{21}=1.04  \ \rightarrow \ \fcolorbox{red}{white}{ $d_{21}=1$} \wedge r_{22}=0.04$
+		\end{itemize}
+	\end{frame}
+	\begin{frame}
+		$$r=0.52 = (0.10000101000111101011100001....)_2=(0.1\overline{00001010001111010111})_2$$
+		$$\therefore 3475.52=3475+0.52=110110010011_{(2)} + 0.1\overline{00001010001111010111}_{(2)}$$
+			$$= \color{red}110110010011.1\overline{00001010001111010111}_{(2)} $$
+	\end{frame}
+\end{document}
