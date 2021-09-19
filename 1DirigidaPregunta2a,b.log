@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.16)  18 SEP 2021 19:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.16)  18 SEP 2021 20:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -799,28 +799,30 @@ Dictionary: translator-theorem-dictionary, Language: English
 Spanish.dict
 Dictionary: translator-theorem-dictionary, Language: Spanish 
 ) (./1DirigidaPregunta2a,b.nav)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
 
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
 
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+ [1
 
-] [3
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3
 
 ] [4
 
 ] [5
 
-] [6
+]
+[6
 
 ] [7
 
@@ -828,8 +830,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [9
 
-]
-[10
+] [10
 
 ] [11
 
@@ -853,14 +854,14 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [21
 
-] [22
+]
+[22
 
 ] [23
 
 ] [24
 
-]
-[25
+] [25
 
 ] [26
 
@@ -884,14 +885,14 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [36
 
-] [37
+]
+[37
 
 ] [38
 
 ] [39
 
-]
-[40
+] [40
 
 ] [41
 
@@ -915,14 +916,14 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [51
 
-] [52
+]
+[52
 
 ] [53
 
 ] [54
 
-]
-[55
+] [55
 
 ] [56
 
@@ -938,303 +939,305 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [62
 
-]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
- [] 
- []
-
-[63
+] [63
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [64
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [65
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [66
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [67
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [68
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [69
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [70
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [71
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [72
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [73
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [74
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [75
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [76
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [77
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [78
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [79
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [80
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [81
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [82
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [83
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [84
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [85
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [86
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [87
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [88
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [89
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [90
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [91
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [92
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [93
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [94
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [95
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [96
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [97
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [98
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [99
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [100
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [101
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [102
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [103
 
 ]
-Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
  [] 
  []
 
 [104
 
-] [105
+]
+Overfull \hbox (37.79956pt too wide) in paragraph at lines 72--72
+ [] 
+ []
+
+[105
 
 ] [106
+
+] [107
 
 ]
 \tf@nav=\write6
@@ -1246,18 +1249,18 @@ Overfull \hbox (37.79956pt too wide) in paragraph at lines 71--71
 \tf@snm=\write8
 \openout8 = `1DirigidaPregunta2a,b.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
  (./1DirigidaPregunta2a,b.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 96.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
 Package rerunfilecheck Info: File `1DirigidaPregunta2a,b.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18357 strings out of 480608
- 352605 string characters out of 5907536
- 671493 words of memory out of 5000000
+ 18359 strings out of 480608
+ 352626 string characters out of 5907536
+ 672519 words of memory out of 5000000
  33566 multiletter control sequences out of 15000+600000
  536983 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1266,13 +1269,14 @@ Here is how much of TeX's memory you used:
 ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2020/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symb
-ols/msam10.pfb>
-Output written on 1DirigidaPregunta2a,b.pdf (106 pages, 467539 bytes).
+public/amsfonts/cm/cmss8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10
+.pfb>
+Output written on 1DirigidaPregunta2a,b.pdf (107 pages, 476533 bytes).
 PDF statistics:
- 2897 PDF objects out of 2984 (max. 8388607)
- 2745 compressed objects within 28 object streams
- 213 named destinations out of 1000 (max. 500000)
+ 2927 PDF objects out of 2984 (max. 8388607)
+ 2773 compressed objects within 28 object streams
+ 215 named destinations out of 1000 (max. 500000)
  55 words of extra memory for PDF output out of 10000 (max. 10000000)
 
